@@ -17,6 +17,6 @@ function Card({image,pname,para})
       </button>
     </div>
   );
-}
+ }
 
 export default Card;
